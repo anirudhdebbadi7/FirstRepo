@@ -10,5 +10,16 @@ public class FirstClass {
 		System.out.println("main method");
 		System.out.println("maven");
 	}
+	
+	public void maina() {
+		System.out.println("main method");
+		System.out.println("maven");
+	}
+	
+	public void mainb() {
+		System.out.println("main method");
+		System.out.println("maven");
+	}
+	
 
 }
