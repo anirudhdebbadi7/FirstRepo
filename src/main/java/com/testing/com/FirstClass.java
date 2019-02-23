@@ -8,6 +8,7 @@ public class FirstClass {
 	@Test
 	public void main() {
 		System.out.println("main method");
+		System.out.println("maven");
 	}
 
 }
