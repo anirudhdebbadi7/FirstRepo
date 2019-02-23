@@ -10,6 +10,8 @@ public class FirstClass {
 		System.out.println("main method");
 		System.out.println("maven");
 		System.out.println("ani");
+		System.out.println("maven");
+		System.out.println("ani");
 	}
 	
 	
